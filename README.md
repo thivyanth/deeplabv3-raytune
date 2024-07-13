@@ -17,8 +17,8 @@ This repository contains a Jupyter notebook for semantic segmentation using the 
 1. Clone the repository:
 
 ```sh
-git clone https://github.com/yourusername/semantic-segmentation-deeplabv3.git
-cd semantic-segmentation-deeplabv3
+git clone https://github.com/thivyanth/deeplabv3-raytune.git
+cd deeplabv3-raytune
 ```
 1. Install the required packages:
 
